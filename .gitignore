@@ -1,0 +1,5 @@
+.idea/
+*.iml
+*.ini
+build/
+out/
